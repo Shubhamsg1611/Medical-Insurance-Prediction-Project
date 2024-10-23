@@ -1,5 +1,5 @@
 # Medical Insurance Prediction Project
-![credit](https://www.datascienceportfol.io/static/profile_pics/pr14_A38ED02CE0D67F0A3BF5.jpg)
+![credit](https://www.datascienceportfol.io/static/profile_pics/pr15_BD8BA3495FB74E7DBC65.jpg)
 
 **The Medical Insurance Prediction Project aims to predict an individual's medical insurance costs based on personal attributes such as age, sex, BMI, number of children, smoking status, and region of residence. Using a dataset of labeled examples, a linear regression model was built to find relationships between these factors and the insurance charges. The model explains about 73.7% of the variance in insurance costs, showing that factors like smoking, age, and BMI significantly impact the predicted charges. The project highlights opportunities for improving predictions through more complex models and feature engineering.**
 
